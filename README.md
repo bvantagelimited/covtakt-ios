@@ -9,7 +9,7 @@ BlueTrace is a privacy-preserving protocol for community-driven contact tracing 
 The Covtakt reference implementation comprises:
 
 - iOS app: [bvantagelimited/covtakt-ios](https://github.com/bvantagelimited/covtakt-ios)
-- Android app: [bvantagelimited/covtakt-android](https://github.com/bvantagelimited/covtakt-android
+- Android app: [bvantagelimited/covtakt-android](https://github.com/bvantagelimited/covtakt-android)
 - Cloud functions: [bvantagelimited/covtakt-backend](https://github.com/bvantagelimited/covtakt-backend)
 
 ## Building the code
