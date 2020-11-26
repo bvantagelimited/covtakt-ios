@@ -1,0 +1,16 @@
+// OTP
+"EnterOTPSent" = "Enter OTP that was sent to %@";
+"WrongNumber" = "Wrong number?";
+"ResendCode" = "Resend Code";
+
+"InvalidOTP" = "Must be a 6-digit code";
+"WrongOTP" = "Wrong OTP entered";
+
+"CodeWillExpired" = "Your code will expire in %@.";
+"CodeHasExpired" = "Your code has expired.";
+"LastUpdate" = "Last updated: %@";
+"NotAValidCode" = "Not a valid code";
+"DataUploaded" = "Data uploaded";
+"DataNotUploaded" = "Data not uploaded";
+"Join me in stopping the spread of COVID-19! Download Covtakt!" = "Join me in stopping the spread of COVID-19! Download Covtakt!";
+

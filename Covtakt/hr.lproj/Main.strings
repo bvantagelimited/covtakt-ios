@@ -1,0 +1,232 @@
+
+/* Class = "UILabel"; text = "Help stop the spread of COVID-19 by turning Bluetooth on"; ObjectID = "00h-JA-MfK"; */
+"00h-JA-MfK.text" = "Uključite Bluetooth i pomozite da se zaustavi širenje COVID-19";
+
+/* Class = "UILabel"; text = "Help stop the virus spread by allowing all permissions."; ObjectID = "0Ce-nD-DpI"; */
+"0Ce-nD-DpI.text" = "Pomozite da se zaustavi širenje virusa tako što ćete dozvoliti sve neophodne funkcionalnosti.";
+
+/* Class = "UILabel"; text = "Set up app permissions\n"; ObjectID = "0pO-gl-umK"; */
+"0pO-gl-umK.text" = "Dozvolite aplikaciji da:\n";
+
+/* Class = "UILabel"; text = "Ask friends and family to help"; ObjectID = "1vD-4L-kMa"; */
+"1vD-4L-kMa.text" = "Pitajte prijatelje i porodicu da pomognu";
+
+/* Class = "UILabel"; text = "TempIDs you have encountered, sorted by number of encounters"; ObjectID = "2PA-qS-5Rm"; */
+"2PA-qS-5Rm.text" = "TempIDs you have encountered, sorted by number of encounters";
+
+/* Class = "UIButton"; normalTitle = "Great!!!"; ObjectID = "2RA-ER-v0N"; */
+"2RA-ER-v0N.normalTitle" = "U redu";
+
+/* Class = "UILabel"; text = "Share this app"; ObjectID = "2VB-oc-qKW"; */
+"2VB-oc-qKW.text" = "Podelite ovu aplikaciju sa porodicom i prijateljima.";
+
+/* Class = "UILabel"; text = "To protect those around you, the health authority may also ask you to share your data."; ObjectID = "6HD-UN-iTU"; */
+"6HD-UN-iTU.text" = "Molimo Vas da dozvolite aktivaciju Bluetooth-a na svom uređaju i time omogućite funkcionisanje ove aplikacije.";
+
+/* Class = "UIButton"; normalTitle = "Resend Code"; ObjectID = "6Rh-JE-cit"; */
+"6Rh-JE-cit.normalTitle" = "Ponovo pošalji kod";
+
+/* Class = "UILabel"; text = "Enter your mobile number to be contacted"; ObjectID = "6U2-DI-o9Z"; */
+"6U2-DI-o9Z.text" = "Unesite broj mobilnog telefona kako bismo vas kontaktirali";
+
+/* Class = "UILabel"; text = "Read our"; ObjectID = "8kX-AB-ztf"; */
+"8kX-AB-ztf.text" = "Pročitajte o";
+
+/* Class = "UILabel"; text = "Setup is incomplete"; ObjectID = "93z-Iu-TSR"; */
+"93z-Iu-TSR.text" = "Podešavanje nije završeno";
+
+/* Class = "UILabel"; text = "Both are needed for the app to work.\nYour battery usage may increase."; ObjectID = "9oG-IT-1nY"; */
+"9oG-IT-1nY.text" = "Utrošak baterije Vašeg uređaja bi mogao da se poveća.";
+
+/* Class = "UILabel"; text = "Toggle advertisement"; ObjectID = "9wZ-lc-Wcg"; */
+"9wZ-lc-Wcg.text" = "Isključite reklame";
+
+/* Class = "UILabel"; text = "Central state:"; ObjectID = "AaM-mf-r4E"; */
+"AaM-mf-r4E.text" = "Centralno stanje:";
+
+/* Class = "UILabel"; text = "Turn on your Bluetooth"; ObjectID = "Ahv-yZ-Jd3"; */
+"Ahv-yZ-Jd3.text" = "Aktivirajte Bluetooth";
+
+/* Class = "UILabel"; text = "To be implemented"; ObjectID = "Bza-Ha-aNb"; */
+"Bza-Ha-aNb.text" = "Biće implementirano uskoro";
+
+/* Class = "UILabel"; text = "To access power saver mode:"; ObjectID = "FdU-iA-P2V"; */
+"FdU-iA-P2V.text" = "Da biste smanjili potrošnju baterije:";
+
+/* Class = "UILabel"; text = "If you had close contact with a COVID-19 case, we help the health authority call you more quickly, to provide guidance and care.\n"; ObjectID = "G2G-ck-rYV"; */
+"G2G-ck-rYV.text" = "Ukoliko ste bili u bliskom kontaktu sa osobom obolelom od bolesti COVID-19 izazvane virusom SARS-CoV-2, imate mogućnost da preko aplikacije Covtakt dobijete pravovremeno obaveštenje o tome i na taj način zaštitite sebe i svoje bližnje.\n";
+
+/* Class = "UILabel"; text = "Enter OTP that was sent to "; ObjectID = "GWc-qS-9y6"; */
+"GWc-qS-9y6.text" = "Kod od 6 cifara je poslat na ";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "HuB-0B-BW3"; */
+"HuB-0B-BW3.title" = "Podešavanja";
+
+/* Class = "UITabBarController"; title = "Main"; ObjectID = "JXd-F4-xFZ"; */
+"JXd-F4-xFZ.title" = "Glavno";
+
+/* Class = "UILabel"; text = "Push Notifications: Off"; ObjectID = "K6z-fL-CBE"; */
+"K6z-fL-CBE.text" = "Push obaveštenja: Isključena";
+
+/* Class = "UIButton"; normalTitle = "Wrong number?"; ObjectID = "K7X-Ux-SAc"; */
+"K7X-Ux-SAc.normalTitle" = "Pogrešan broj?";
+
+/* Class = "UILabel"; text = "Number of unique TempIDs encountered:"; ObjectID = "K9L-bb-Uz0"; */
+"K9L-bb-Uz0.text" = "Number of unique TempIDs encountered:";
+
+/* Class = "UILabel"; text = "Your code will expire in 3:00."; ObjectID = "Kc0-pn-IHx"; */
+"Kc0-pn-IHx.text" = "Vaš kod ističe za 3:00.";
+
+/* Class = "UILabel"; text = "1. Bluetooth\n2. Push notifications\n"; ObjectID = "Kv0-mp-Xoy"; */
+"Kv0-mp-Xoy.text" = "1. Koristi Bluetooth\n2. Prima obaveštenja\n";
+
+/* Class = "UILabel"; text = "Toggle scanning"; ObjectID = "LS7-Ae-1lF"; */
+"LS7-Ae-1lF.text" = "Isključite skeniranje";
+
+/* Class = "UIButton"; normalTitle = "I want to help"; ObjectID = "LX0-7p-Shs"; */
+"LX0-7p-Shs.normalTitle" = "Želim da pomognem";
+
+/* Class = "UILabel"; text = "Allow Bluetooth: Off"; ObjectID = "LpF-lX-utx"; */
+"LpF-lX-utx.text" = "Dozvolite Bluetooth: Isključeno";
+
+/* Class = "UIButton"; normalTitle = "Obtain Bluetooth state"; ObjectID = "LwD-cg-62p"; */
+"LwD-cg-62p.normalTitle" = "Pregled Bluetooth stanja";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "M1A-NB-uUq"; */
+"M1A-NB-uUq.normalTitle" = "Odjavite se";
+
+/* Class = "UILabel"; text = "We use Bluetooth signals to determine if you are near another OpenTrace user. \n\nThis proximity data is encrypted and stored only on your phone.\n\nThe health authority will seek your consent to upload the data, if it’s needed for contact tracing."; ObjectID = "ML0-z9-4tI"; */
+"ML0-z9-4tI.text" = "Aplikacija koristi tehnologiju bežičnog prenosa podataka između uređaja (Bluetooth) kako bi procenila udaljenost Vašeg uređaja od drugog uređaja koji ima instaliranu istu aplikaciju.\n\nUkoliko neko ima potvrđenu bolest COVID-19, ima mogućnost da nakon potvrde ovlašćenog lica, pošalje obaveštenje svim korisnicima aplikacije koji su bili u neposrednoj fizičkoj blizini (u trajanju od 10 minuta na rastojanju manjem od dva metra).\n\nAplikacija ne sakuplja podatke o Vašoj GPS lokaciji, niti sakuplja podatke o protoku mobilnog ili WiFi interneta. Svi podaci su enkriptovani i čuvaju se isključivo na Vašem uređaju u okviru aplikacije.";
+
+/* Class = "UIButton"; normalTitle = "I agree"; ObjectID = "N9Z-d2-PXT"; */
+"N9Z-d2-PXT.normalTitle" = "Saglasan sam";
+
+/* Class = "UILabel"; text = "This saves battery, by letting the app scan with the phone’s display turned off."; ObjectID = "Ofb-30-OTz"; */
+"Ofb-30-OTz.text" = "Dozvolom da aplikacija skenira dok je displej telefona isključen štedite bateriju.";
+
+/* Class = "UILabel"; text = "Please leave all settings on until the outbreak ends."; ObjectID = "PEf-6L-JIR"; */
+"PEf-6L-JIR.text" = "Molimo Vas da u podešavanjima telefona aktivirate opciju slanja obaveštenja (push notification).\nNakon toga se vratite u aplikaciju i potvrdite na taster.";
+
+/* Class = "UIButton"; normalTitle = "I turned on Bluetooth"; ObjectID = "QGC-4P-Xbk"; */
+"QGC-4P-Xbk.normalTitle" = "Bluetooth je aktiviran";
+
+/* Class = "UIButton"; normalTitle = "I'll keep this in mind"; ObjectID = "Rda-kZ-idO"; */
+"Rda-kZ-idO.normalTitle" = "U redu";
+
+/* Class = "UILabel"; text = "Bluetooth: Off"; ObjectID = "T1S-u0-WAI"; */
+"T1S-u0-WAI.text" = "Bluetooth: Uključena";
+
+/* Class = "UIButton"; normalTitle = "Get OTP"; ObjectID = "Tuw-g5-oMO"; */
+"Tuw-g5-oMO.normalTitle" = "Tražite jednokratni kod";
+
+/* Class = "UILabel"; text = "Then come back to the app to confirm."; ObjectID = "Ure-ju-qCc"; */
+"Ure-ju-qCc.text" = "Nakon toga se vratite u aplikaciju i potvrdite na taster.";
+
+/* Class = "UILabel"; text = "How you can help stop the spread of COVID-19"; ObjectID = "W1I-gM-V0v"; */
+"W1I-gM-V0v.text" = "Kako možete da pomognete da se zaustavi širenje COVID-19";
+
+/* Class = "UILabel"; text = "Keep app open in power saver mode, especially in meetings, public spaces, and public transport."; ObjectID = "WV2-xp-47d"; */
+"WV2-xp-47d.text" = "Molimo Vas da aplikaciju držite aktivnom do kraja epidemije.";
+
+/* Class = "UILabel"; text = "To allow OpenTrace users to send the health authority information of encounters with you, if they are confirmed or suspected to have COVID-19 "; ObjectID = "WZa-7l-4tI"; */
+"WZa-7l-4tI.text" = "Potrebno je da date saglasnost kako biste primali obaveštenja ukoliko ste bili u neposrednoj fizičkoj blizini sa nekim kod koga je potvrđena bolest COVID-19.";
+
+/* Class = "UITabBarController"; title = "Debug"; ObjectID = "Wr5-6q-62a"; */
+"Wr5-6q-62a.title" = "Debug";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "Zmj-3v-POB"; */
+"Zmj-3v-POB.normalTitle" = "Nastavite";
+
+/* Class = "UILabel"; text = "Wrong OTP entered"; ObjectID = "aWN-Zo-GBT"; */
+"aWN-Zo-GBT.text" = "Pogrešan kod";
+
+/* Class = "UILabel"; text = "Bluetooth: On"; ObjectID = "byz-Ld-DQp"; */
+"byz-Ld-DQp.text" = "Bluetooth: Uključen";
+
+/* Class = "UILabel"; text = "iPhone users, take note!"; ObjectID = "cIb-XG-DLg"; */
+"cIb-XG-DLg.text" = "Važna napomena za korisnike Apple uređaja";
+
+/* Class = "UITabBarItem"; title = "Help"; ObjectID = "deh-eO-0VD"; */
+"deh-eO-0VD.title" = "Obaveštenja";
+
+/* Class = "UIButton"; normalTitle = "privacy safeguards"; ObjectID = "fHp-qK-Q85"; */
+"fHp-qK-Q85.normalTitle" = "Zaštitne mere vezane za privatnost";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "fwi-lK-bOF"; */
+"fwi-lK-bOF.normalTitle" = "Obaveštenja su aktivirana";
+
+/* Class = "UITabBarItem"; title = "TempIDs"; ObjectID = "gNq-to-dhP"; */
+"gNq-to-dhP.title" = "TempIDs";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gdZ-Bw-jvd"; */
+"gdZ-Bw-jvd.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Clear logs"; ObjectID = "hRC-lV-uQr"; */
+"hRC-lV-uQr.normalTitle" = "Clear logs";
+
+/* Class = "UILabel"; text = "App permissions are fully set up"; ObjectID = "jCO-yx-Tur"; */
+"jCO-yx-Tur.text" = "Aktivirajte obaveštenja";
+
+/* Class = "UILabel"; text = "Peripheral state:"; ObjectID = "kbp-vB-pVU"; */
+"kbp-vB-pVU.text" = "Periferno stanje:";
+
+/* Class = "UILabel"; text = "App Permissions Status"; ObjectID = "lM2-pC-IPR"; */
+"lM2-pC-IPR.text" = "Status ovlašćenja koje aplikacija ima";
+
+/* Class = "UIButton"; normalTitle = "Verify"; ObjectID = "lQY-RW-yBL"; */
+"lQY-RW-yBL.normalTitle" = "Potvrdite";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "ldq-ma-pwg"; */
+"ldq-ma-pwg.title" = "Početna stranica";
+
+/* Class = "UILabel"; text = "Allow Bluetooth: On"; ObjectID = "lkG-8h-L41"; */
+"lkG-8h-L41.text" = "Dozvolite Bluetooth: Uključena";
+
+/* Class = "UILabel"; text = "Select ‘Yes’ for the next two screens to set up.\n"; ObjectID = "npY-9G-r2u"; */
+"npY-9G-r2u.text" = "";
+
+/* Class = "UILabel"; text = "To store your mobile number in a secured OpenTrace registry"; ObjectID = "oXq-Kh-nOP"; */
+"oXq-Kh-nOP.text" = "Čuvanje broja vašeg mobilnog telefona u zaštićenom Covtakt registru";
+
+/* Class = "UILabel"; text = "We'll text you a One-Time Pin (OTP)."; ObjectID = "oa7-Z8-RbO"; */
+"oa7-Z8-RbO.text" = "Poslaćemo vam jednokratni kod";
+
+/* Class = "UILabel"; text = "Debug logs"; ObjectID = "p85-OU-TR2"; */
+"p85-OU-TR2.text" = "Debug logs";
+
+/* Class = "UILabel"; text = "Your consent is needed for the following:"; ObjectID = "swY-fQ-mdw"; */
+"swY-fQ-mdw.text" = "Vaša saglasnost je neophodna za sledeće:";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "t3V-hm-cl2"; */
+"t3V-hm-cl2.text" = "Podešavanja";
+
+/* Class = "UILabel"; text = "Do this from Control Center or go to Settings."; ObjectID = "tjL-QF-W6s"; */
+"tjL-QF-W6s.text" = "Molimo Vas da u podešavanjima telefona aktivirate opciju Bluetooth.";
+
+/* Class = "UILabel"; text = "How OpenTrace works"; ObjectID = "u5f-cs-P3k"; */
+"u5f-cs-P3k.text" = "Kako Covtakt funkcioniše";
+
+/* Class = "UITabBarItem"; title = "Logs"; ObjectID = "uSm-wg-y7O"; */
+"uSm-wg-y7O.title" = "Logs";
+
+/* Class = "UILabel"; text = "Last updated: 10:10 pm"; ObjectID = "upc-i0-4H3"; */
+"upc-i0-4H3.text" = "Poslednje ažuriranje:";
+
+"7DL-kg-SAj.text" = "Poslednje ažuriranje:";
+
+/* Class = "UILabel"; text = "TempIDs"; ObjectID = "uyw-zh-fkG"; */
+"uyw-zh-fkG.text" = "TempIDs";
+
+/* Class = "UILabel"; text = "Push Notifications: On"; ObjectID = "vcv-Er-8qy"; */
+"vcv-Er-8qy.text" = "Push obaveštenja: Uključena";
+
+/* Class = "UIButton"; normalTitle = "Take me out of here!"; ObjectID = "vzT-59-yTf"; */
+"vzT-59-yTf.normalTitle" = "Vodi me odavde!";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "xXg-2v-r6T"; */
+"xXg-2v-r6T.text" = "...";
+
+/* Class = "UILabel"; text = "Setting up for your family? \nUse their number instead of yours."; ObjectID = "xZr-Zr-OIm"; */
+"xZr-Zr-OIm.text" = "Podešavate aplikaciju za člana porodice? \nKoristite njihove brojeve telefona umesto svog.";
+
+

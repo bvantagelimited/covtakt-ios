@@ -1,0 +1,29 @@
+// OTP
+"EnterOTPSent" = "Kod od 6 cifara je poslat na %@";
+"WrongNumber" = "Pogrešan broj?";
+"ResendCode" = "Ponovo pošalji kod";
+
+"InvalidOTP" = "Mora da ima 6 cifara";
+"WrongOTP" = "Pogrešan kod";
+
+"CodeWillExpired" = "Vaš kod ističe za %@.";
+"CodeHasExpired" = "Vaš kod je istekao.";
+
+"NotAValidCode" = "Verifikacija nije uspela. Molimo Vas da pokušate ponovo";
+"DataUploaded" = "Podaci poslati";
+"DataNotUploaded" = "Podaci nisu poslati";
+"Join me in stopping the spread of COVID-19! Download Covtakt!" = "Pridružite mi se u zaustavljanju širenja COVID-19! Skinite Covtakt. Posetite: https://covtakt.rs";
+"Done" = "Gotovo";
+"On iPhone, the app needs to be kept open to work." = "Aplikacija mora biti aktivna (otvorena) kako bi funkcionisala.";
+"1. Turn your phone face down, or" = "1. Okrenite telefon ekranom nadole ili";
+"2. Keep it upside down in your pocket" = "2. Ukoliko držite telefon u džepu ekran okrenite naopako.";
+"LastUpdate" = "Poslednje ažuriranje: %@";
+"Use power saver mode" = "Koristite režim uštede baterije";
+"Turned Bluetooth off by mistake?" = "Greškom ste isključili Bluetooth?";
+"Help stop the spread of COVID-19 by keeping your phone’s Bluetooth on until the outbreak is over." = "Pomozite da se zaustavi širenje COVID-19 tako što ćete Bluetooth držati uključenim do kraja pandemije.";
+"We need you!" = "Potrebni ste nam!";
+"Help stop the spread of COVID-19 by keeping your Bluetooth on and the app open in power saver mode when you’re in meetings, public spaces, or public transport." = "Pomozite da se zaustavi širenje COVID-19 tako što ćete Bluetooth držati uključenim, a aplikaciju otvorenom u režimu uštede energije, dok ste na sastancima, na javnim mestima ili u javnom prevozu.";
+"Great!!!" = "U redu";
+"You don't have any notifications at the moment." = "Trenutno nemate obaveštenja";
+"Notifications" = "Obaveštenja";
+"Detail" = "Detalji";
