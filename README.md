@@ -77,7 +77,11 @@ Find `ConsentViewController.swift` and replace the placeholder with your privacy
             return
         }
 ...
-```
+### Setting Firebase Functions Region 
+Check your registered region then update it in FirebaseAPIs (line 5) , UploadDataStep2VC.swift (line 20) and  EncounterMessageManager.swift (line 12)
+Functions.functions(region: "europe-west1")
+
+More: https://firebase.google.com/docs/functions/locations
 
 ### Setting Firebase remote config
 
