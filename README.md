@@ -92,6 +92,9 @@ The "Share" message uses Firebase remote config. The key is "ShareText". If it i
 
 There is a debug screen accessible within the staging version of the app. This allows you to view the app's Bluetooth communication log. To access it, you first have to set up the app. Then, tap on the home screen image.
 
+## Production Build
+change the config of Auth.auth().setAPNSToken(deviceToken, type: .sandbox) to Auth.auth().setAPNSToken(deviceToken, type: .prod)
+
 ## Linting
 
 There's a build script in `Targets > Covtakt > Build Phases > Swiftlint` which runs [SwiftLint](https://github.com/realm/SwiftLint) on Build.
